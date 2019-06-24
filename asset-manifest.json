@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/investing-calculator/static/css/main.5a5330bf.chunk.css",
+    "main.js": "/investing-calculator/static/js/main.ec71fc6b.chunk.js",
+    "main.js.map": "/investing-calculator/static/js/main.ec71fc6b.chunk.js.map",
+    "runtime~main.js": "/investing-calculator/static/js/runtime~main.1fc4e9f0.js",
+    "runtime~main.js.map": "/investing-calculator/static/js/runtime~main.1fc4e9f0.js.map",
+    "static/js/2.e8afb4b0.chunk.js": "/investing-calculator/static/js/2.e8afb4b0.chunk.js",
+    "static/js/2.e8afb4b0.chunk.js.map": "/investing-calculator/static/js/2.e8afb4b0.chunk.js.map",
+    "index.html": "/investing-calculator/index.html",
+    "precache-manifest.180c95c49d07f810cfe853fbf9eef344.js": "/investing-calculator/precache-manifest.180c95c49d07f810cfe853fbf9eef344.js",
+    "service-worker.js": "/investing-calculator/service-worker.js",
+    "static/css/main.5a5330bf.chunk.css.map": "/investing-calculator/static/css/main.5a5330bf.chunk.css.map",
+    "static/media/airpods.jpg": "/investing-calculator/static/media/airpods.082140cf.jpg",
+    "static/media/chipotle.jpg": "/investing-calculator/static/media/chipotle.a43bcc25.jpg",
+    "static/media/college.jpg": "/investing-calculator/static/media/college.c55a7ba9.jpg",
+    "static/media/hamilton.jpg": "/investing-calculator/static/media/hamilton.5b9f44ab.jpg",
+    "static/media/money.png": "/investing-calculator/static/media/money.60f75dfd.png",
+    "static/media/nyapartment.jpg": "/investing-calculator/static/media/nyapartment.52fe924e.jpg",
+    "static/media/roadTrip.jpg": "/investing-calculator/static/media/roadTrip.a78fc3c7.jpg",
+    "static/media/tesla.jpg": "/investing-calculator/static/media/tesla.5ef4ca70.jpg",
+    "static/media/vacation.jpg": "/investing-calculator/static/media/vacation.6110f0de.jpg",
+    "static/media/yacht.jpg": "/investing-calculator/static/media/yacht.8240634b.jpg"
+  }
+}
