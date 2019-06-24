@@ -3,8 +3,8 @@ import './App.css';
 import './index.css'
 import Form from './Form'
 import FutureMoney from "./FutureMoney"
-import {BrowserRouter as Router, Route} from "react-router-dom"
-import moneyImg from "./img/money.png"
+import {HashRouter as Router, Route} from "react-router-dom"
+
 
 class App extends Component {
   constructor(){
